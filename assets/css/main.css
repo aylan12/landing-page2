@@ -2081,6 +2081,7 @@ input, select, textarea {
 			z-index: 2;
 		}
 
+		/*
 		.image-wrapper.first:before {
 			content: '';
 			display: block;
@@ -2091,8 +2092,9 @@ input, select, textarea {
 			top: 0;
 			z-index: 1;
 			box-shadow: inset 0px 0px 0px 1px #e8e8e8;
-			background: #f6f8fb url("images/image-wrapper.svg");
+			background: #b56ce2 ;
 		}
+			*/
 
 	#header-wrapper {
 		position: relative;
